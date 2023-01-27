@@ -1145,4 +1145,5 @@
 ||smilered.com^
 ||weboohost.com^
 ||outbrain.com^$empty
+||outbrain.com^$third-party
 !----------------------------------------------------------------
