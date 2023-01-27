@@ -1144,4 +1144,5 @@
 ||rg.yottos.com^
 ||smilered.com^
 ||weboohost.com^
+||outbrain.com^$empty
 !----------------------------------------------------------------
